@@ -1,0 +1,6 @@
+100000;Juan Alberto;Palacios Quispe;70;2021-10-02;2
+100001;Dario;Fernandez;45;2021-10-14;1
+100002;Fernanda;Salazar;50;2021-10-07;1
+100006;Lucas;Montenegro;70;2029-07-02;1
+100008;Mauricio;Caceres;50;2021-10-02;3
+100005;Carmen;Alarcon;45;2021-09-29;1

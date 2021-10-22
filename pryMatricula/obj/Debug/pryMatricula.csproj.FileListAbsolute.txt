@@ -1,0 +1,12 @@
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\bin\Debug\pryMatricula.exe.config
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\bin\Debug\pryMatricula.exe
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\bin\Debug\pryMatricula.pdb
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.Form1.resources
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.FormMantCursos.resources
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.Properties.Resources.resources
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.exe
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.pdb
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.csprojAssemblyReference.cache
+C:\Users\Computer\Desktop\pryMatricula\pryMatricula\obj\Debug\pryMatricula.FormMatricula.resources

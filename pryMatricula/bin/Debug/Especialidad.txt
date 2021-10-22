@@ -1,0 +1,6 @@
+1;Ingenieria de Sistemas;10
+2;Ingenieria de Software;10
+3;Derecho;12
+4;Administración de empresas;10
+5;Contabilidad;10
+6;Turismo;10

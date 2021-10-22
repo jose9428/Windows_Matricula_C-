@@ -1,0 +1,6 @@
+1;Ingenieria de Sistemas;Introduccion a la progranacion;49;45;3
+3;Ingenieria de Sistemas;Internet de las cosas;25;50;2
+4;Ingenieria de Software;Base de datos;25;56;4
+5;Ingenieria de Sistemas;Introduccion a la Ingenieria;50;20;6
+6;Ingenieria de Software;Desarrollo Web;45;50;6
+7;Ingenieria de Software;Programacion Avanzada;20;70;8
